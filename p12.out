@@ -1,0 +1,18 @@
+Single-server queueing system (Gasoline Station)
+
+Mean interarrival time      5.600 minutes
+
+Mean service time           4.800 minutes
+
+Number of customers           500
+
+
+
+Average delay of cops in queue                    4.268 minutes
+
+Average delay of ordinary customers in queue     64.239 minutes
+
+Average number of customers in queue             11.544
+
+Gasoline pump utilization                         0.952
+

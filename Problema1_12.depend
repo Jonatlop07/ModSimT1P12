@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615303265 source:d:\cpp_programs\simulations\workshop1\problema1_12\lcgrand.c
+
+1616282358 source:d:\cpp_programs\simulations\workshop1\problema1_12\main.c
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+	<stdlib.h>
+	"lcgrand.h"
+
+1615303283 d:\cpp_programs\simulations\workshop1\problema1_12\lcgrand.h
+
